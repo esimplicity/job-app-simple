@@ -1,0 +1,16 @@
+{
+	"name": "jobtest",
+	"description": "Job Test",
+	"version": "0.0.1",
+	"dependencies": {
+		"coffee-script": "*",
+		"express": "3.x.x",
+		"connect-assets": "",
+		"jade": "",
+		"stylus": "",
+		"socket.io": ""
+	},
+	"scripts": {
+		"start": "coffee app.coffee"
+	},
+}
